@@ -1,0 +1,23 @@
+body {
+background-image:url("./dallas-hall-historic-building-on-260nw-2455819229.webp") ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+
+.first {
+    text-align: center;
+}
+
+.second {
+    width: 250px;
+    height: 25px;
+    background-color: gainsboro;
+}
+
+.third{
+    width: 100px;
+    height: 25px;
+    background-color: green; 
+    
+}
